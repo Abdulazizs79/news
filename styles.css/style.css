@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: "Roboto";
+}
+.header__link{
+    color: black;
+    font-family: "Roboto";
+}
+body{
+    background: #E5E5E5;
+}
+.container{
+   max-width: 1496px;
+   width: 100%;
+   
+   
+}
+.heder__link1{
+    color: #B71C1C;
+}
+.header__nav{
+    min-width: 1496px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+.header__logo{
+    padding-right: 278px;  
+}
+.header__item{
+    margin-right: 15px;
+}
+.header__image{
+    padding-left: 145px;
+    width: 1110px;
+}
+.inf__block{
+    display: flex;
+    padding-top: 20px;
+}
+.inf__box{
+    color: white;
+    background: #B71C1C;
+    width: 350px;
+}
+.inf__box1{
+    color: white;
+    background: #6A1B9A;
+    width: 350px;
+}
+.inf__box2{
+    color: white;
+    background: #303F9F;
+    width: 350px;
+}
+.inf__box3{
+    color: white;
+    background: #00695C;
+    width: 350px;
+}
+.inf__title{
+    padding: 8px ;
+    font-weight: 700;
+}
+.inf__title1{
+    padding: 15px 15px; 
+}
+.inf__img1{
+    padding-top: 7px;
+    margin-bottom: -5px;
+}
+.inf__text{
+    padding: 8px 15px;
+}
+.inf__text1{
+    padding-left: 15px;
+}
+.inf__img3{
+    padding-top: 8px;
+    margin-bottom: -5px;
+}
+.about__title{
+    max-width: 1496px;
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+.about__box{
+    display: flex;
+}
+.about__img{
+    padding: 40px 0 50px 130px;
+}
+.about__block{
+    min-width: 1496px;
+    background: white;
+}
+.about__title-text{
+    padding: 60px 145px 30px 30px;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 26px;
+}
+.about__text{
+    text-align: center;
+    padding-left: 30px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #686868;
+    width: 540px;
+    height: 398px;
+}
+.header__nav-last{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+.nav__last-logo{
+    padding-right: 278px;
+
+}
+.nav__last-item{
+    margin-right: 15px;
+}
+.header__last{
+    min-width: 1496px;
+    background-color: #3A3838;
+}
+.nav__last-link{
+    color: white;
+}
+.titt{
+    color: white
+}
+.nav__last-link1{
+    color: #B71C1C;
+}
